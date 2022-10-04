@@ -4,7 +4,7 @@ Eu sou desenvolvedora de software, tenho 4+ anos de experiência e atualmente tr
 
 - 📫 Melhor forma de falar comigo: **[manda uma DM no Twitter](https://twitter.com/ikiba)**! 
 - 🎤 participei de alguns podcasts que você pode ouvir nessa **[playlist](https://open.spotify.com/playlist/6wSpdbYtqP2Lv2s6kbhKNC?si=0688940e23c94a8e)** 
-- 📝 alguns artigos que escrevi ou traduzi estão nesse **[link](https://open.spotify.com/playlist/6wSpdbYtqP2Lv2s6kbhKNC?si=0688940e23c94a8e)** 
+- 📝 alguns artigos que escrevi ou traduzi estão nesse **[link](https://blog.taller.net.br/author/evelynschmtz/)** 
 - 📡 para mentoria, me manda uma DM no twitter e bora conversar!
 
 
