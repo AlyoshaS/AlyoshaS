@@ -45,7 +45,7 @@ Eu sou desenvolvedora de software, tenho 4+ anos de experiência e atualmente tr
   - Cloud: Heroku, Digital Ocean, Acquia, AWS e GCP
   - Docker
 
-<p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyoshaS&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="AlyoshaS" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlyoshaS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AlyoshaS" /></p>
+<!-- <p align="center"><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlyoshaS&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="AlyoshaS" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlyoshaS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="AlyoshaS" /></p> -->
 
 
