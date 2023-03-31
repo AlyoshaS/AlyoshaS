@@ -1,6 +1,6 @@
 # Olá, pessoa! ✨😊
 
-Eu sou desenvolvedora de software, tenho 4+ anos de experiência e atualmente trabalho remotamente no iFood. 
+Eu sou desenvolvedora de software, tenho 5+ anos de experiência e atualmente trabalho remotamente no iFood. 
 
 - 📫 Melhor forma de falar comigo: **[manda uma DM no Twitter](https://twitter.com/ikiba)**! 
 - 🎤 participei de alguns podcasts que você pode ouvir nessa **[playlist](https://open.spotify.com/playlist/6wSpdbYtqP2Lv2s6kbhKNC?si=0688940e23c94a8e)** 
